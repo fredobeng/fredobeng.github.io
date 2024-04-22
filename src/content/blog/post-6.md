@@ -11,44 +11,12 @@ seo:
     alt: Walking person silhouette
 ---
 
-![Walking person silhouette](/post-6.jpg)
+!Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper purus tortor, non porttitor nulla mollis id. Aenean pulvinar efficitur tortor sed tristique. In sem massa, sollicitudin eu nunc et, euismod accumsan neque. Ut bibendum egestas congue. Praesent sed egestas augue. Quisque mi turpis, facilisis vitae nulla ac, consequat maximus tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque ligula ex, rhoncus aliquam eleifend non, consectetur eu est. Nam pretium nisl sapien, vel suscipit nulla porta ac.
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+Mauris ullamcorper ex at volutpat dignissim. In pretium purus et lacus hendrerit tincidunt. Duis sed efficitur augue. Morbi non sapien sit amet mi ultrices posuere sit amet ut neque. Sed efficitur laoreet sem, sit amet porttitor libero ultrices id. Sed non ex at nunc fringilla vehicula. Praesent at sagittis erat. Nunc ut ultricies enim. Aenean laoreet congue ullamcorper. Aliquam erat volutpat. Nullam non gravida nisi, luctus mattis enim.
 
-Front-end development has come a long way since the early days of the World Wide Web. From static HTML pages to dynamic and interactive web applications, the evolution of front-end development has been nothing short of remarkable. In this post, we'll take a fascinating journey through time to explore how front-end development has evolved over the years.
+Nullam ut elit et erat interdum posuere et sit amet magna. Curabitur ac lorem justo. Aliquam et laoreet velit. Quisque ipsum orci, euismod suscipit luctus eget, posuere ut quam. Mauris libero risus, volutpat a odio quis, laoreet ultrices dolor. Maecenas suscipit lectus non leo dictum, vulputate euismod felis gravida. Suspendisse consequat faucibus nunc, nec eleifend ante dictum id. Nam convallis consequat lorem, fermentum sagittis mauris lacinia in. Integer egestas, metus a laoreet fermentum, sem justo sagittis dolor, at rhoncus tortor est sit amet diam. Maecenas non quam lorem. Suspendisse id diam aliquam, fringilla orci vel, mollis odio. Ut at nisl tristique, cursus justo a, porta ipsum. Suspendisse potenti. Curabitur tincidunt enim bibendum, placerat tortor at, dapibus urna. Phasellus a tincidunt nisl, eu cursus est. Aenean imperdiet blandit justo, ut molestie dolor imperdiet vel.
 
-## The Static HTML Era (1990s - Early 2000s)
+Aenean diam libero, euismod sed tellus ac, suscipit facilisis neque. Proin elementum faucibus quam in fringilla. Aenean ullamcorper ut erat feugiat dictum. Quisque sagittis nec tellus in fermentum. Quisque fringilla eu enim in egestas. Suspendisse et aliquet est. Sed accumsan consequat ullamcorper.
 
-In the early days of the web, front-end development primarily involved creating static HTML pages. These pages were simple, text-heavy, and often lacked the visual and interactive elements we take for granted today. Cascading Style Sheets (CSS) started to gain popularity during this era, allowing developers to style web pages and make them more visually appealing.
-
-## The Rise of JavaScript (Late 1990s - Early 2000s)
-
-JavaScript emerged as a powerful tool for adding interactivity to web pages. This era witnessed the birth of technologies like DHTML (Dynamic HTML), which allowed developers to create dynamic and animated web content. This marked the beginning of a more engaging web experience.
-
-## The Era of Browser Wars (Late 1990s - Early 2000s)
-
-During this period, web developers faced challenges due to the "browser wars" between Internet Explorer and Netscape Navigator. Cross-browser compatibility became a significant concern, leading to the development of various JavaScript libraries and frameworks to help tackle these issues.
-
-## The Web 2.0 Revolution (Mid-2000s)
-
-Web 2.0 brought about a shift in front-end development. Websites started to become more interactive and user-centric. Ajax (Asynchronous JavaScript and XML) became a key technology, enabling seamless data retrieval and updates without requiring full page reloads.
-
-## Responsive Web Design (2010s)
-
-With the proliferation of smartphones and tablets, responsive web design became essential. Front-end developers had to adapt to building websites that could gracefully resize and restructure themselves to fit various screen sizes. This era saw the widespread use of CSS frameworks like Bootstrap and Foundation.
-
-## The Era of JavaScript Frameworks (2010s - Present)
-
-JavaScript frameworks like Angular, React, and Vue.js transformed front-end development. They introduced concepts like component-based architecture and virtual DOM, making it easier to build complex, dynamic web applications. Single-page applications (SPAs) became increasingly popular, providing smoother user experiences.
-
-## The Progressive Web App (PWA) Movement (2010s - Present)
-
-PWAs combined the best of web and mobile app experiences. Front-end developers started focusing on creating websites that not only worked well on browsers but also functioned offline, provided push notifications, and offered a more app-like experience to users.
-
-## WebAssembly and Beyond (Present - Future)
-
-WebAssembly (Wasm) is an emerging technology that allows running compiled code in web browsers at near-native speed. It opens up possibilities for front-end developers to build high-performance web applications and even port existing applications from other languages.
-
-## Conclusion
-
-Front-end development has evolved significantly, from static HTML pages to dynamic, responsive, and highly interactive web applications. With emerging technologies and ongoing advancements, the journey of front-end development continues to be exciting. As front-end developers, it's essential to stay updated, adapt to new trends, and embrace the ever-changing landscape of web development to create compelling user experiences on the internet.
+Suspendisse iaculis ipsum a eros consequat, ac accumsan ipsum egestas. Aenean neque augue, egestas vitae ligula ac, porttitor efficitur neque. Sed malesuada accumsan fringilla. Nunc vitae odio venenatis, hendrerit sapien quis, tincidunt nisi. Donec orci lacus, rutrum ut lacus ut, convallis pretium ex. Praesent id nulla ac eros viverra gravida. Maecenas id neque condimentum, cursus erat at, pulvinar mi. Nam non varius nisl. Donec ullamcorper leo in placerat condimentum. Aenean in ipsum consequat, pretium leo a, vestibulum nibh. Praesent turpis metus, condimentum in lectus fringilla, aliquet viverra quam.

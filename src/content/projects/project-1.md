@@ -8,59 +8,12 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](/project-1.jpg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper purus tortor, non porttitor nulla mollis id. Aenean pulvinar efficitur tortor sed tristique. In sem massa, sollicitudin eu nunc et, euismod accumsan neque. Ut bibendum egestas congue. Praesent sed egestas augue. Quisque mi turpis, facilisis vitae nulla ac, consequat maximus tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque ligula ex, rhoncus aliquam eleifend non, consectetur eu est. Nam pretium nisl sapien, vel suscipit nulla porta ac.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Mauris ullamcorper ex at volutpat dignissim. In pretium purus et lacus hendrerit tincidunt. Duis sed efficitur augue. Morbi non sapien sit amet mi ultrices posuere sit amet ut neque. Sed efficitur laoreet sem, sit amet porttitor libero ultrices id. Sed non ex at nunc fringilla vehicula. Praesent at sagittis erat. Nunc ut ultricies enim. Aenean laoreet congue ullamcorper. Aliquam erat volutpat. Nullam non gravida nisi, luctus mattis enim.
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Nullam ut elit et erat interdum posuere et sit amet magna. Curabitur ac lorem justo. Aliquam et laoreet velit. Quisque ipsum orci, euismod suscipit luctus eget, posuere ut quam. Mauris libero risus, volutpat a odio quis, laoreet ultrices dolor. Maecenas suscipit lectus non leo dictum, vulputate euismod felis gravida. Suspendisse consequat faucibus nunc, nec eleifend ante dictum id. Nam convallis consequat lorem, fermentum sagittis mauris lacinia in. Integer egestas, metus a laoreet fermentum, sem justo sagittis dolor, at rhoncus tortor est sit amet diam. Maecenas non quam lorem. Suspendisse id diam aliquam, fringilla orci vel, mollis odio. Ut at nisl tristique, cursus justo a, porta ipsum. Suspendisse potenti. Curabitur tincidunt enim bibendum, placerat tortor at, dapibus urna. Phasellus a tincidunt nisl, eu cursus est. Aenean imperdiet blandit justo, ut molestie dolor imperdiet vel.
 
-## Objectives
+Aenean diam libero, euismod sed tellus ac, suscipit facilisis neque. Proin elementum faucibus quam in fringilla. Aenean ullamcorper ut erat feugiat dictum. Quisque sagittis nec tellus in fermentum. Quisque fringilla eu enim in egestas. Suspendisse et aliquet est. Sed accumsan consequat ullamcorper.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
-
-## Features
-
-1. **EcoScore and Challenges:**
-
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
-
-2. **Personalized Eco-Goals:**
-
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
-
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Suspendisse iaculis ipsum a eros consequat, ac accumsan ipsum egestas. Aenean neque augue, egestas vitae ligula ac, porttitor efficitur neque. Sed malesuada accumsan fringilla. Nunc vitae odio venenatis, hendrerit sapien quis, tincidunt nisi. Donec orci lacus, rutrum ut lacus ut, convallis pretium ex. Praesent id nulla ac eros viverra gravida. Maecenas id neque condimentum, cursus erat at, pulvinar mi. Nam non varius nisl. Donec ullamcorper leo in placerat condimentum. Aenean in ipsum consequat, pretium leo a, vestibulum nibh. Praesent turpis metus, condimentum in lectus fringilla, aliquet viverra quam.
