@@ -1,5 +1,15 @@
 ---
 import siteConfig from '../data/site-config';
+import Typed from 'typed.js';
+
+const type = new Typed('#typewrite', {
+    strings: ['read', 'write', 'think', 'code', 'learn', 'and *care'],
+    typeSpeed: 50,
+    backSpeed: 50,
+    loop: true,
+    showCursor: true,
+    cursorChar: '|'
+});
 ---
 
 <header class="w-full max-w-3xl mx-auto mb-12 sm:mb-16">
@@ -14,5 +24,5 @@ import siteConfig from '../data/site-config';
             </a>
         )
     }
-    {siteConfig.subtitle && <p class="text-sm leading-tight mt-1">{siteConfig.subtitle}</p>}
+    <p class="text-sm leading-tight mt-1">Learning to <p id="typewrite"></p>{siteConfig.subtitle}</p>
 </header>
