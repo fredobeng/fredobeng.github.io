@@ -88,7 +88,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi 👋🏾, and Welcome to My Corner of the Web!',
-        text: "I'm currently studying Medicine in school.\n\n\n In my free time, I play around with Python a lot. I write about write about what I end up building in <a href='projects'>Projects</a> and use <a href='blog'>Blog</a> as an outlet for my thoughts and experiences.",
+        text: "\n I play around with Python and Julia (for machine learning) a lot when I'm free from the demands of Med School and write about what I end up building in <a href='projects'>Projects</a>. I use <a href='blog'>Blog</a> as an outlet for my thoughts and experiences.",
         image: {
             src: '/hero.jpg',
             alt: 'A person sitting at a desk in front of a computer',
