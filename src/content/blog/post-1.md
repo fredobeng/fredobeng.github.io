@@ -4,6 +4,7 @@ excerpt: I think the truest of my reasons for starting this blog is simply the d
 publishDate: 'May 22 2024'
 isFeatured: true
 tags:
+  - writing
 seo:
   image:
     src: '/post-1.jpg'
