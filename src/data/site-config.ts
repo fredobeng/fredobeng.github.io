@@ -78,12 +78,12 @@ const siteConfig: SiteConfig = {
             href: 'https://github.com/fredobeng'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
             text: 'X/Twitter',
             href: 'https://twitter.com/@_derf8'
+        },
+        {
+            text: 'Email',
+            href: 'mailto:oorbeng@gmail.com'
         }
     ],
     hero: {
