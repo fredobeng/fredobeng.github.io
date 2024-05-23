@@ -75,7 +75,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'GitHub',
-            href: 'https://github.com/mlmsme'
+            href: 'https://github.com/fredobeng'
         },
         {
             text: 'Instagram',
@@ -83,7 +83,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/@_derf8'
         }
     ],
     hero: {
@@ -91,7 +91,7 @@ const siteConfig: SiteConfig = {
         text: "\n I play around with Python and Julia a lot (for Machine Learning) when I'm free from the demands of Med School and write about what I end up building in <a href='projects'>Projects</a>. I use <a href='blog'>Blog</a> as an outlet for my thoughts and experiences.",
         image: {
             src: '/hero.jpg',
-            alt: 'A person sitting at a desk in front of a computer',
+            alt: 'A photograph of a beach.',
             caption: "Photograph of a beach. Shot by yours truly."
         },
 
