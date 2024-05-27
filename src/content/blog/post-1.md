@@ -1,6 +1,6 @@
 ---
 title: Why I'm starting a blog
-excerpt: I think the truest of my reasons for starting this blog is simply the desire to create something—to start something and see what comes of it. Let's see how it all turns out.
+excerpt: I think the truest of my reasons for starting this blog is simply the desire to create something—to start something and see what comes of it.
 publishDate: 'May 22 2024'
 isFeatured: true
 tags:
