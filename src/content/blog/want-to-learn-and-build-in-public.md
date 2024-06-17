@@ -1,6 +1,6 @@
 ---
 title: I want to learn and build in public
-excerpt: I'm not an advanced developer, but I enjoy every bit of the art. I enjoy how easy it can be to turn an idea into a reality, I enjoy fixing bugs, and I enjoy using keyboard keys that I wouldn't typically use.
+excerpt: This will not only test my understanding but also hold me accountable throughout my learning journey.
 publishDate: 'Jun 12 2024'
 isFeatured: true
 tags:
