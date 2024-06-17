@@ -17,7 +17,7 @@ I am starting this blog to improve my thinking and expressive abilities. I have 
 
 Another reason I am starting this blog is to learn more. Like many, I have a lot of interests. Writing publicly about the things I'm interested in and care about offers an opportunity to learn more about them. I hope to also discover new interests along the way.
 
-I'm also doing this to improve my web-development skills. I learn some concepts in web development every now and then, and working on this blog (and the site in general) is one of the ways I intend to practice what I learn. That said, don't be surprised if you see changes in the design of the site the next time you visit.
+I'm also doing this to improve my web-development skills. I learn some concepts in web development every now and then, and working on this blog is one of the ways I intend to practice what I learn. That said, don't be surprised if you see changes in the design of the site the next time you visit.
 
 One other reason why I'm starting this blog is to express myself more. I find myself wanting to say a lot of things everyday but keep most of them to myself. I think having a space where I can be myself and say what I have in mind will be really helpful for me.
 
