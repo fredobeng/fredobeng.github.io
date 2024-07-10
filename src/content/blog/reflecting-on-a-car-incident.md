@@ -1,6 +1,6 @@
 ---
 title: Reflecting on a car incident
-excerpt: Patience, tolerance, and open-mindedness
+excerpt: Patience, tolerance, and open-mindedness.
 publishDate: 'July 10 2024'
 isFeatured: true
 tags:
