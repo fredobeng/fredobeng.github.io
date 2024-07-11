@@ -15,6 +15,6 @@ An event last week caught my attention. While attempting to cross the road, anot
   
 This happening is not the first of its kind. There have been previous instances where I've noticed myself and others make comments or take actions because of what we thought some other was about, only to realise later we were mistaken.
   
-I suppose we should learn a few of things from such experiences. 
+I suppose we should learn a few things from such experiences. 
   
 Virtues that struck me as I reflected on the incident were patience, tolerance, and open-mindedness. We mustn't jump to conclusions hastily; we should bear with others; and we should be open to outcomes that may not align with our expectations. We might be surprised by what we find.
