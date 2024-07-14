@@ -2,7 +2,7 @@
 title: I want to learn and build in public
 excerpt: This will not only test my understanding but also hold me accountable throughout my learning journey.
 publishDate: 'Jun 12 2024'
-isFeatured: true
+isFeatured: false
 tags:
   - machine learning
   - learning
