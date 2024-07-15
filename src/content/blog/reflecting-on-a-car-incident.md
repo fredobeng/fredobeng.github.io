@@ -1,6 +1,6 @@
 ---
 title: Reflecting on a car incident
-excerpt: Patience, tolerance, and open-mindedness.
+excerpt: Virtues that struck me as I reflected on the incident were patience, tolerance, and open-mindedness.
 publishDate: 'July 10 2024'
 isFeatured: false
 tags:
