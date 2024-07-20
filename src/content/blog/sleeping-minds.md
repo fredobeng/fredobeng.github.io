@@ -1,6 +1,6 @@
 ---
 title: Sleeping minds 
-excerpt: When will I see change?
+excerpt: From my bunker, everyone appears asleep.
 publishDate: 'Jul 13 2024'
 isFeatured: true
 tags:
